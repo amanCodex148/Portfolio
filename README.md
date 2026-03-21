@@ -92,22 +92,16 @@ Portfolio/
 ## 🖼️ Sections Overview
 
 - Home → Introduction & title animation
-<br>
 
 <img width="1305" height="617" alt="image" src="https://github.com/user-attachments/assets/ac2860f7-8f80-4682-ab76-2a3d4dfea3d9" />
-<br>
 
 - Projects → Showcases my work (Tic Tac Toe + upcoming projects)
-<br>
 
 <img width="1305" height="617" alt="image" src="https://github.com/user-attachments/assets/734bc3b2-6ad0-4e82-9796-e3b3bcb2cb27" />
-<br>
 
 - Contact → Social links (GitHub, Instagram, Telegram, Email)
-<br>
 
 <img width="1305" height="617" alt="image" src="https://github.com/user-attachments/assets/983acd19-7ee0-4f5d-9818-875cbc3b7651" />
-<br>
 
 ---
 
@@ -124,11 +118,11 @@ Portfolio/
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/amanCodex148
-<br>
+
 - Instagram: https://www.instagram.com/toxic.codex
-<br>
+
 - Telegram: https://t.me/Real_Ama_n
-<br>
+
 - Email: amancodex148@gmail.com
 
 ---

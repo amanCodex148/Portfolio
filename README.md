@@ -32,13 +32,22 @@ This project showcases my work, skills, and ways to connect with me — built wi
 ## 📂 File Structure
 
 Portfolio/
-│── index.html
-│── style.css
+<br>
+│── index.html # Main HTML file
+<br>
+│── style.css # Styling (UI + background)
+<br>
 │── script.js
+<br>
 │── assets/
+<br>
 │   ├── images/
+<br>
 │   ├── video/
+<br>
 │   ├── audio/
+<br>
+└── README.md # Project documentation
 
 ---
 

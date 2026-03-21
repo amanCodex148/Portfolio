@@ -124,11 +124,11 @@ Portfolio/
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/amanCodex148
-<br>
+- 
 - Instagram: https://www.instagram.com/toxic.codex
-<br>
+- 
 - Telegram: https://t.me/Real_Ama_n
-<br>
+- 
 - Email: amancodex148@gmail.com
 
 ---

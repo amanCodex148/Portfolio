@@ -119,7 +119,7 @@ Portfolio/
 
 - GitHub: https://github.com/amanCodex148
 
-- Instagram: [https://www.instagram.com/toxic.codex](https://www.instagram.com/codex.amannn)
+- Instagram: https://www.instagram.com/codex.amannn
 
 - Telegram: https://t.me/Real_Ama_n
 
